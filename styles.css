@@ -1,1 +1,26 @@
 
+.profile-picture {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+        }
+
+        .skills-bar {
+            height: 20px;
+            background-color: #f0f0f0;
+            border-radius: 5px;
+        }
+
+        .skills-bar-fill {
+            height: 100%;
+            border-radius: 5px;
+        }
+
+        .skills-badge {
+            margin-right: 5px;
+        }
+
+        .about-me {
+            margin-top: 20px;
+        }
